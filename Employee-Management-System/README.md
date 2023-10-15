@@ -32,9 +32,3 @@ Install the dependencies and start the server.
 ```sh
 python manage.py runserver
 ```
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
